@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Knitted
+  - Enemy
+  - Ball
+  - Water1
+  - Win
+  - PickUp
+  - HurtDestination
+  - HurtDestination2
+  - HurtDestination3
+  - HurtDestination4
+  - HurtDestination5
+  - HurtDestination6
+  - HurtDestination7
+  - HurtDestination8
+  - HurtDestination9
+  - HurtDestination10
+  - HurtDestination11
+  - HurtDestination12
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
